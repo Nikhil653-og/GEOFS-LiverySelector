@@ -9107,6 +9107,13 @@
                     ],
                     "credits": "YT_Làm về mọi thứ có thể làm"
                 }
+                  {
+                    "name": "Air New Zealand",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a320-214/tex_anz.jpg"
+                    ],
+                    "credits": "SpyRov673"
+                }
             ],
             "labels": [
                 "Texture"
